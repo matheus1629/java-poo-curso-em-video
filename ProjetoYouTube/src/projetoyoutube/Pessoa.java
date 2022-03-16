@@ -4,10 +4,6 @@
  */
 package projetoyoutube;
 
-/**
- *
- * @author mathe
- */
 public abstract class Pessoa {
     protected String nome;
     protected int idade;
