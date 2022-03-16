@@ -22,6 +22,7 @@ public class CriaPessoaLivro {
         l[2] = new Livro("Java Avançado", "Maria Candido", 800, p[0]);
         
         l[0].detalhes();
+        p[0].status();
         
     }
     

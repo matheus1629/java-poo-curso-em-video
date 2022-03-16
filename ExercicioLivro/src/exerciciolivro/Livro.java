@@ -22,11 +22,11 @@ public class Livro implements Publicacao{
     
    
     public void detalhes() {
-        System.out.println("T√≠tulo: " + getTitulo());
+        System.out.println("TÌtulo: " + getTitulo());
         System.out.println("Autor: " + getAutor());
         System.out.println("Livro aberto: " + this.aberto);
-        System.out.println("Total de p√°ginas: " + getTotPaginas());
-        System.out.println("P√°ginas atual: " + getPagAtual());
+        System.out.println("Total de p·ginas: " + getTotPaginas());
+        System.out.println("P·ginas atual: " + getPagAtual());
         System.out.println("Leitor:" + this.leitor.getNome());
     }
     public String getTitulo() {

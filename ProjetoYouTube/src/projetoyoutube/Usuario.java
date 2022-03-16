@@ -4,10 +4,6 @@
  */
 package projetoyoutube;
 
-/**
- *
- * @author mathe
- */
 public class Usuario extends Pessoa{
     private String login;
     private int totAssistido;

@@ -4,10 +4,6 @@
  */
 package projetoyoutube;
 
-/**
- *
- * @author mathe
- */
 public class ProjetoYouTube {
 
     public static void main(String[] args) {
